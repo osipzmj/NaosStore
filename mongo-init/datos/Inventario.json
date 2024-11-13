@@ -1,0 +1,52 @@
+[
+    {
+        "nombreProducto": "Laptop Dell XPS",
+        "precio": 25000,
+        "img": "https://m.media-amazon.com/images/I/719CAihgtTL.jpg",
+        "categoria": "Electrónica",
+        "cantidadDisponible": 10,
+        "cantidad": 5,
+        "disponible": true,
+        "tipoEnvioSeleccionado": "Express"
+    },
+    {
+        "nombreProducto": "Smartphone Samsung Galaxy",
+        "precio": 18000,
+        "img": "https://cdn1.coppel.com/images/catalog/pm/2462483-1.jpg",
+        "categoria": "Teléfonos",
+        "cantidadDisponible": 15,
+        "cantidad": 10,
+        "disponible": true,
+        "tipoEnvioSeleccionado": "Estándar"
+    },
+    {
+        "nombreProducto": "Auriculares Sony WH-1000XM4",
+        "precio": 8000,
+        "img": "https://ss630.liverpool.com.mx/xl/1107471371_3p.jpg",
+        "categoria": "Audio",
+        "cantidadDisponible": 25,
+        "cantidad": 20,
+        "disponible": true,
+        "tipoEnvioSeleccionado": "Express"
+    },
+    {
+        "nombreProducto": "Monitor LG UltraWide",
+        "precio": 12000,
+        "img": "https://m.media-amazon.com/images/I/71G3rq+f83L.jpg",
+        "categoria": "Monitores",
+        "cantidadDisponible": 8,
+        "cantidad": 5,
+        "disponible": true,
+        "tipoEnvioSeleccionado": "Estándar"
+    },
+    {
+        "nombreProducto": "Teclado Mecánico Razer",
+        "precio": 5000,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_708665-CBT53073625476_122022-O.webp",
+        "categoria": "Accesorios",
+        "cantidadDisponible": 30,
+        "cantidad": 25,
+        "disponible": true,
+        "tipoEnvioSeleccionado": "Express"
+    }
+]

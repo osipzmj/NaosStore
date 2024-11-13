@@ -1,0 +1,153 @@
+[
+    {
+        "nombreCliente": "Carlos Pérez",
+        "emailCliente": "carlos@correo.com",
+        "direccionCliente": "Calle Ficticia 123, Ciudad A",
+        "estatus": "Pedido enviado",
+        "fechaCompra": "2024-11-12T12:34:56", 
+        "telefonoCliente": 1234567890,
+        "total": 120.50,
+        "numGuia": "GU12345",
+        "nombrePaqueteria": "Paquetería Rápida",
+        "nombreTransportista": "Transportista A",
+        "telefono": "123456789",
+        "placa": "ABC123",
+        "tipoEnvioSeleccionado": "Normal",
+        "compraProducto": [
+            {
+                "nombreProducto": "Café Molido",
+                "precio": 45,
+                "subtotal": 45,
+                "cantidad": 1
+            },
+            {
+                "nombreProducto": "Té Verde",
+                "precio": 30,
+                "subtotal": 30,
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "nombreCliente": "Ana Gómez",
+        "emailCliente": "ana@correo.com",
+        "direccionCliente": "Avenida Principal 456, Ciudad B",
+        "estatus": "En tránsito",
+        "fechaCompra": "2024-11-12T12:34:56",
+        "telefonoCliente": 9876543210,
+        "total": 85.75,
+        "numGuia": "GU67890",
+        "nombrePaqueteria": "Envios Express",
+        "nombreTransportista": "Transportista B",
+        "telefono": "987654321",
+        "placa": "XYZ456",
+        "tipoEnvioSeleccionado": "Express",
+        "compraProducto": [
+            {
+                "nombreProducto": "Chocolate en Polvo",
+                "precio": 55,
+                "subtotal": 55,
+                "cantidad": 1
+            },
+            {
+                "nombreProducto": "Azúcar Morena",
+                "precio": 15,
+                "subtotal": 15,
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "nombreCliente": "Luis Martínez",
+        "emailCliente": "luis@correo.com",
+        "direccionCliente": "Calle 7, Ciudad C",
+        "estatus": "Pedido enviado",
+        "fechaCompra": "2024-11-12T12:34:56",
+        "telefonoCliente": 5555555555,
+        "total": 70.00,
+        "numGuia": "GU11111",
+        "nombrePaqueteria": "Rápido y Seguro",
+        "nombreTransportista": "Transportista C",
+        "telefono": "555555555",
+        "placa": "LMN789",
+        "tipoEnvioSeleccionado": "Normal",
+        "compraProducto": [
+            {
+                "nombreProducto": "Harina Integral",
+                "precio": 25,
+                "subtotal": 25,
+                "cantidad": 2
+            },
+            {
+                "nombreProducto": "Té Verde",
+                "precio": 30,
+                "subtotal": 30,
+                "cantidad": 1
+            }
+        ]
+    },
+    {
+        "nombreCliente": "María López",
+        "emailCliente": "maria@correo.com",
+        "direccionCliente": "Boulevard del Río 789, Ciudad D",
+        "estatus": "En tránsito",
+        "fechaCompra": "2024-11-12T12:34:56",
+        "telefonoCliente": 1112223333,
+        "total": 95.25,
+        "numGuia": "GU22222",
+        "nombrePaqueteria": "Logística Global",
+        "nombreTransportista": "Transportista D",
+        "telefono": "111222333",
+        "placa": "QRS234",
+        "tipoEnvioSeleccionado": "Express",
+        "compraProducto": [
+            {
+                "nombreProducto": "Chocolate en Polvo",
+                "precio": 55,
+                "subtotal": 55,
+                "cantidad": 1
+            },
+            {
+                "nombreProducto": "Azúcar Morena",
+                "precio": 15,
+                "subtotal": 15,
+                "cantidad": 2
+            },
+            {
+                "nombreProducto": "Harina Integral",
+                "precio": 25,
+                "subtotal": 25,
+                "cantidad": 1
+            }
+        ]
+    },
+    {
+        "nombreCliente": "Juan Ramírez",
+        "emailCliente": "juan@correo.com",
+        "direccionCliente": "Avenida Sol 101, Ciudad E",
+        "estatus": "Pedido enviado",
+        "fechaCompra": "2024-11-12T12:34:56",
+        "telefonoCliente": 4445556666,
+        "total": 50.00,
+        "numGuia": "GU33333",
+        "nombrePaqueteria": "Paquetería Express",
+        "nombreTransportista": "Transportista E",
+        "telefono": "444555666",
+        "placa": "TUV567",
+        "tipoEnvioSeleccionado": "Normal",
+        "compraProducto": [
+            {
+                "nombreProducto": "Café Molido",
+                "precio": 45,
+                "subtotal": 45,
+                "cantidad": 1
+            },
+            {
+                "nombreProducto": "Té Verde",
+                "precio": 30,
+                "subtotal": 30,
+                "cantidad": 1
+            }
+        ]
+    }
+]

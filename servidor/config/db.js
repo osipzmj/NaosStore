@@ -1,17 +1,16 @@
 const mongoose = require('mongoose');
-require('dotenv').config({path:'variables.env'});
 
-const conectarDB =  async () =>{
+const conectarDB = async () => {
     try {
-        await mongoose.connect(process.env.DB_Mongo,{
+        await mongoose.connect('mongodb://admin:admin@mongo:27017/MeanSistemaVentas?authSource=admin', {
             useNewUrlParser: true,
-            useUnifiedTopology:true,
-            //useFindAndModify: false
+            useUnifiedTopology: true,
         });
         console.log("Se ha conectado exitosamente a la Base de datos");
     } catch (error) {
-        console.log(error);
-        process.exit(1); //Detenemos la App
+        console.error("Error conectando a la Base de datos:", error.message);
+        process.exit(1); // Detenemos la App
     }
-}
+};
+
 module.exports = conectarDB;

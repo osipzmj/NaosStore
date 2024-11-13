@@ -1,0 +1,27 @@
+[
+    {
+        "nombreProveedor": "Proveedor A",
+        "email": "contacto@proveedora.com",
+        "direccion": "Calle Falsa 123, Ciudad A"
+    },
+    {
+        "nombreProveedor": "Proveedor B",
+        "email": "contacto@proveedorb.com",
+        "direccion": "Avenida Principal 456, Ciudad B"
+    },
+    {
+        "nombreProveedor": "Proveedor C",
+        "email": "contacto@proveedorc.com",
+        "direccion": "Calle 7, Edificio 9, Ciudad C"
+    },
+    {
+        "nombreProveedor": "Proveedor D",
+        "email": "contacto@proveedord.com",
+        "direccion": "Boulevard del Río 789, Ciudad D"
+    },
+    {
+        "nombreProveedor": "Proveedor E",
+        "email": "contacto@proveedore.com",
+        "direccion": "Avenida Sol 101, Ciudad E"
+    }
+]

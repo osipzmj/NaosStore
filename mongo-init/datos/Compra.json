@@ -1,0 +1,100 @@
+[
+    {
+        "nombreProveedor": "ElectroDistribuidora SA",
+        "emailProveedor": "contacto@electrodistribuidora.com",
+        "direccionProveedor": "Calle Falsa 123, Ciudad de México",
+        "fechaCompra": "2024-10-12 10:30",
+        "status": "En Proceso",
+        "comentario": "Pendiente de revisión",
+        "productos": [
+            {
+                "nombreProducto": "Laptop Dell XPS",
+                "precio": 25000,
+                "img": "https://m.media-amazon.com/images/I/719CAihgtTL.jpg",
+                "cantidad": 2
+            },
+            {
+                "nombreProducto": "Auriculares Sony WH-1000XM4",
+                "precio": 8000,
+                "img": "https://ss630.liverpool.com.mx/xl/1107471371_3p.jpg",
+                "cantidad": 3
+            }
+        ]
+    },
+    {
+        "nombreProveedor": "Tech Warehouse",
+        "emailProveedor": "sales@techwarehouse.com",
+        "direccionProveedor": "Av. Reforma 456, Ciudad de México",
+        "fechaCompra": "2024-10-13 12:00",
+        "status": "Completado",
+        "comentario": "Entrega rápida",
+        "productos": [
+            {
+                "nombreProducto": "Smartphone Samsung Galaxy",
+                "precio": 18000,
+                "img": "https://cdn1.coppel.com/images/catalog/pm/2462483-1.jpg",
+                "cantidad": 1
+            },
+            {
+                "nombreProducto": "Monitor LG UltraWide",
+                "precio": 12000,
+                "img": "https://m.media-amazon.com/images/I/71G3rq+f83L.jpg",
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "nombreProveedor": "Accesorios PC",
+        "emailProveedor": "ventas@accesoriospc.com",
+        "direccionProveedor": "Calle 8 No. 90, Monterrey",
+        "fechaCompra": "2024-10-14 14:45",
+        "status": "En Proceso",
+        "comentario": "Requiere confirmación",
+        "productos": [
+            {
+                "nombreProducto": "Teclado Mecánico Razer",
+                "precio": 5000,
+                "img": "https://http2.mlstatic.com/D_NQ_NP_708665-CBT53073625476_122022-O.webp",
+                "cantidad": 4
+            }
+        ]
+    },
+    {
+        "nombreProveedor": "Sony Distribución",
+        "emailProveedor": "info@sonydistribucion.com",
+        "direccionProveedor": "Av. Sony 15, Guadalajara",
+        "fechaCompra": "2024-10-15 09:20",
+        "status": "En Proceso",
+        "comentario": "Descuento aplicado",
+        "productos": [
+            {
+                "nombreProducto": "Auriculares Sony WH-1000XM4",
+                "precio": 8000,
+                "img": "https://ss630.liverpool.com.mx/xl/1107471371_3p.jpg",
+                "cantidad": 5
+            }
+        ]
+    },
+    {
+        "nombreProveedor": "LG Store",
+        "emailProveedor": "contact@lgstore.com",
+        "direccionProveedor": "Blvd. LG 25, Tijuana",
+        "fechaCompra": "2024-10-16 16:10",
+        "status": "En Proceso",
+        "comentario": "Entrega en espera",
+        "productos": [
+            {
+                "nombreProducto": "Monitor LG UltraWide",
+                "precio": 12000,
+                "img": "https://m.media-amazon.com/images/I/71G3rq+f83L.jpg",
+                "cantidad": 1
+            },
+            {
+                "nombreProducto": "Laptop Dell XPS",
+                "precio": 25000,
+                "img": "https://m.media-amazon.com/images/I/719CAihgtTL.jpg",
+                "cantidad": 1
+            }
+        ]
+    }
+]

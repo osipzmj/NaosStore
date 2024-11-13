@@ -1,0 +1,32 @@
+[
+    {
+        "nombreProducto": "Café Molido",
+        "precio": 45,
+        "categoria": "Bebidas",
+        "nombreProveedor": "Proveedor A"
+    },
+    {
+        "nombreProducto": "Té Verde",
+        "precio": 30,
+        "categoria": "Bebidas",
+        "nombreProveedor": "Proveedor B"
+    },
+    {
+        "nombreProducto": "Chocolate en Polvo",
+        "precio": 55,
+        "categoria": "Postres",
+        "nombreProveedor": "Proveedor C"
+    },
+    {
+        "nombreProducto": "Harina Integral",
+        "precio": 25,
+        "categoria": "Alimentos",
+        "nombreProveedor": "Proveedor D"
+    },
+    {
+        "nombreProducto": "Azúcar Morena",
+        "precio": 15,
+        "categoria": "Ingredientes",
+        "nombreProveedor": "Proveedor E"
+    }
+]

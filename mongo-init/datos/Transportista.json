@@ -1,0 +1,37 @@
+[
+    {
+        "nombreTransportista": "Transportista A",
+        "telefono": "123456789",
+        "placa": "ABC123",
+        "paqueteria": "Paquetería Express",
+        "disponible": true
+    },
+    {
+        "nombreTransportista": "Transportista B",
+        "telefono": "987654321",
+        "placa": "XYZ456",
+        "paqueteria": "Logística Global",
+        "disponible": true
+    },
+    {
+        "nombreTransportista": "Transportista C",
+        "telefono": "555555555",
+        "placa": "LMN789",
+        "paqueteria": "Rápido y Seguro",
+        "disponible": false
+    },
+    {
+        "nombreTransportista": "Transportista D",
+        "telefono": "111222333",
+        "placa": "QRS234",
+        "paqueteria": "Movimientos Ágiles",
+        "disponible": true
+    },
+    {
+        "nombreTransportista": "Transportista E",
+        "telefono": "444555666",
+        "placa": "TUV567",
+        "paqueteria": "Logística Rápida",
+        "disponible": false
+    }
+]
